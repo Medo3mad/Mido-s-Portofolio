@@ -1,0 +1,25 @@
+.pic-background{
+    background-color:  antiquewhite;
+}
+.profile-pic,img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    background-color: lightblue;
+}
+.Years{
+    margin-left: 1100px;
+}
+iframe{
+    width: 500px;
+    height: 600px;
+}
